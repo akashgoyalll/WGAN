@@ -70,7 +70,3 @@ The Wasserstein GAN with Gradient Penalty was chosen over standard GANs to preve
 
 📄 License
 This project is open-source and available under the MIT License.
-
-
-### Next Step for GitHub:
-Since you are uploading to GitHub, would you like me to help you write a **`.gitignore
