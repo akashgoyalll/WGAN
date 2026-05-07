@@ -34,16 +34,6 @@ WGAN_Project/
 ├── frontend/
 │   └── app.py             # Streamlit Interactive Dashboard
 └── README.md              # Documentation
-⚙️ Installation & Setup
-1. Clone the repository
-Bash
-git clone [https://github.com/YOUR_USERNAME/WGAN-CIFAR10.git](https://github.com/YOUR_USERNAME/WGAN-CIFAR10.git)
-cd WGAN-CIFAR10
-2. Install Dependencies
-Bash
-pip install fastapi uvicorn tensorflow streamlit pillow requests numpy
-3. Add the Model
-Place your generator.keras file inside the backend/ folder.
 
 🏃 How to Run
 You will need two terminal windows open:
